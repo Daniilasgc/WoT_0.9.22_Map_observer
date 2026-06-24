@@ -1,0 +1,2074 @@
+World of Tanks 0.9.22 vehicles
+Format: Nation type / Tank / vehicle.json value
+Use the value after "vehicle.json:" in selectedVehicleTag.
+
+================================================================
+Nation type: ussr
+================================================================
+Tank: T-34
+vehicle.json: ussr:R04_T-34
+
+Tank: SU-85
+vehicle.json: ussr:R02_SU-85
+
+Tank: IS
+vehicle.json: ussr:R01_IS
+
+Tank: BT-7
+vehicle.json: ussr:R03_BT-7
+
+Tank: BT-2
+vehicle.json: ussr:R08_BT-2
+
+Tank: KV
+vehicle.json: ussr:R05_KV
+
+Tank: T-28
+vehicle.json: ussr:R06_T-28
+
+Tank: S-51
+vehicle.json: ussr:R15_S-51
+
+Tank: A-20
+vehicle.json: ussr:R12_A-20
+
+Tank: SU-152
+vehicle.json: ussr:R18_SU-152
+
+Tank: T-34-85
+vehicle.json: ussr:R07_T-34-85
+
+Tank: KV-1s
+vehicle.json: ussr:R13_KV-1s
+
+Tank: T-46
+vehicle.json: ussr:R22_T-46
+
+Tank: SU-100
+vehicle.json: ussr:R17_SU-100
+
+Tank: MS-1
+vehicle.json: ussr:R11_MS-1
+
+Tank: SU-18
+vehicle.json: ussr:R16_SU-18
+
+Tank: SU-14
+vehicle.json: ussr:R27_SU-14
+
+Tank: T-44
+vehicle.json: ussr:R20_T-44
+
+Tank: T-26
+vehicle.json: ussr:R09_T-26
+
+Tank: SU-5
+vehicle.json: ussr:R14_SU-5
+
+Tank: AT-1
+vehicle.json: ussr:R10_AT-1
+
+Tank: IS-3
+vehicle.json: ussr:R19_IS-3
+
+Tank: SU-8
+vehicle.json: ussr:R26_SU-8
+
+Tank: KV-3
+vehicle.json: ussr:R39_KV-3
+
+Tank: IS 4M
+vehicle.json: ussr:R90_IS_4M
+
+Tank: SU-76
+vehicle.json: ussr:R24_SU-76
+
+Tank: T-43
+vehicle.json: ussr:R23_T-43
+
+Tank: GAZ-74b
+vehicle.json: ussr:R25_GAZ-74b
+
+Tank: IS-7
+vehicle.json: ussr:R45_IS-7
+
+Tank: ISU-152
+vehicle.json: ussr:R47_ISU-152
+
+Tank: SU-26
+vehicle.json: ussr:R66_SU-26
+
+Tank: T-54
+vehicle.json: ussr:R40_T-54
+
+Tank: Object 704
+vehicle.json: ussr:R53_Object_704
+
+Tank: Object 212
+vehicle.json: ussr:R51_Object_212
+
+Tank: Object 261
+vehicle.json: ussr:R52_Object_261
+
+Tank: KV-13
+vehicle.json: ussr:R46_KV-13
+
+Tank: Object252
+vehicle.json: ussr:R61_Object252
+
+Tank: T-50
+vehicle.json: ussr:R41_T-50
+
+Tank: T 50 2
+vehicle.json: ussr:R70_T_50_2
+
+Tank: SU-101
+vehicle.json: ussr:R58_SU-101
+
+Tank: SU100M1
+vehicle.json: ussr:R74_SU100M1
+
+Tank: KV2
+vehicle.json: ussr:R77_KV2
+
+Tank: ST I
+vehicle.json: ussr:R63_ST_I
+
+Tank: KV4
+vehicle.json: ussr:R73_KV4
+
+Tank: T150
+vehicle.json: ussr:R72_T150
+
+Tank: IS8
+vehicle.json: ussr:R81_IS8
+
+Tank: KV1
+vehicle.json: ussr:R80_KV1
+
+Tank: SU122 54
+vehicle.json: ussr:R75_SU122_54
+
+Tank: A43
+vehicle.json: ussr:R57_A43
+
+Tank: A44
+vehicle.json: ussr:R59_A44
+
+Tank: Object416
+vehicle.json: ussr:R60_Object416
+
+Tank: Object268
+vehicle.json: ussr:R88_Object268
+
+Tank: T62A
+vehicle.json: ussr:R87_T62A
+
+Tank: Object263B
+vehicle.json: ussr:R93_Object263B
+
+Tank: T-70
+vehicle.json: ussr:R43_T-70
+
+Tank: T-60
+vehicle.json: ussr:R42_T-60
+
+Tank: Object 907
+vehicle.json: ussr:R95_Object_907
+
+Tank: T80
+vehicle.json: ussr:R44_T80
+
+Tank: SU14 1
+vehicle.json: ussr:R91_SU14_1
+
+Tank: SU122A
+vehicle.json: ussr:R100_SU122A
+
+Tank: MT25
+vehicle.json: ussr:R101_MT25
+
+Tank: Object 140
+vehicle.json: ussr:R97_Object_140
+
+Tank: Object 430B
+vehicle.json: ussr:R96_Object_430B
+
+Tank: Object 430 II
+vehicle.json: ussr:R104_Object_430_II
+
+Tank: T54S
+vehicle.json: ussr:R109_T54S
+
+Tank: LTB
+vehicle.json: ussr:R107_LTB
+
+Tank: VNII 100LT
+vehicle.json: ussr:R132_VNII_100LT
+
+Tank: Tank Gavalov
+vehicle.json: ussr:R131_Tank_Gavalov
+
+Tank: KV85
+vehicle.json: ussr:R106_KV85
+
+Tank: Object 257 2
+vehicle.json: ussr:R151_Object_257_2
+
+Tank: Object 430 U
+vehicle.json: ussr:R148_Object_430_U
+
+Tank: Object 268 4
+vehicle.json: ussr:R149_Object_268_4
+
+Tank: IS 2 Sh
+vehicle.json: ussr:R139_IS_2_Sh
+
+Tank: Object 705
+vehicle.json: ussr:R153_Object_705
+
+Tank: Object 705 A
+vehicle.json: ussr:R145_Object_705_A
+
+Tank: Object263
+vehicle.json: ussr:R93_Object263
+
+Tank: Object 430
+vehicle.json: ussr:R96_Object_430
+
+Tank: KV-220 beta
+vehicle.json: ussr:R38_KV-220_beta
+
+Tank: Matilda II LL
+vehicle.json: ussr:R32_Matilda_II_LL
+
+Tank: Churchill LL
+vehicle.json: ussr:R33_Churchill_LL
+
+Tank: BT-SV
+vehicle.json: ussr:R34_BT-SV
+
+Tank: Valentine LL
+vehicle.json: ussr:R31_Valentine_LL
+
+Tank: M3 LL
+vehicle.json: ussr:R67_M3_LL
+
+Tank: A-32
+vehicle.json: ussr:R68_A-32
+
+Tank: KV-5
+vehicle.json: ussr:R54_KV-5
+
+Tank: T-127
+vehicle.json: ussr:R56_T-127
+
+Tank: SU 85I
+vehicle.json: ussr:R78_SU_85I
+
+Tank: KV-220
+vehicle.json: ussr:R38_KV-220
+
+Tank: SU76I
+vehicle.json: ussr:R50_SU76I
+
+Tank: Tetrarch LL
+vehicle.json: ussr:R84_Tetrarch_LL
+
+Tank: SU100Y
+vehicle.json: ussr:R49_SU100Y
+
+Tank: SU122 44
+vehicle.json: ussr:R89_SU122_44
+
+Tank: T-34-85 training
+vehicle.json: ussr:R07_T-34-85_training
+
+Tank: LTP
+vehicle.json: ussr:R86_LTP
+
+Tank: T44 122
+vehicle.json: ussr:R99_T44_122
+
+Tank: T44 85
+vehicle.json: ussr:R98_T44_85
+
+Tank: T44 85M
+vehicle.json: ussr:R98_T44_85M
+
+Tank: T34 85M
+vehicle.json: ussr:R108_T34_85M
+
+Tank: Object 260
+vehicle.json: ussr:R110_Object_260
+
+Tank: ISU130
+vehicle.json: ussr:R111_ISU130
+
+Tank: Object 730
+vehicle.json: ussr:R113_Object_730
+
+Tank: IS 2B
+vehicle.json: ussr:R71_IS_2B
+
+Tank: T34 85 Rudy
+vehicle.json: ussr:R117_T34_85_Rudy
+
+Tank: ISU122C Berlin
+vehicle.json: ussr:R116_ISU122C_Berlin
+
+Tank: T54 45
+vehicle.json: ussr:R112_T54_45
+
+Tank: Object 244
+vehicle.json: ussr:R114_Object_244
+
+Tank: IS-3 auto
+vehicle.json: ussr:R115_IS-3_auto
+
+Tank: Object 907A
+vehicle.json: ussr:R95_Object_907A
+
+Tank: BT 7A
+vehicle.json: ussr:R105_BT_7A
+
+Tank: Object 777
+vehicle.json: ussr:R119_Object_777
+
+Tank: T28 F30
+vehicle.json: ussr:R118_T28_F30
+
+Tank: T22SR A22
+vehicle.json: ussr:R120_T22SR_A22
+
+Tank: T44 100
+vehicle.json: ussr:R122_T44_100
+
+Tank: KV4 KTT
+vehicle.json: ussr:R121_KV4_KTT
+
+Tank: Kirovets 1
+vehicle.json: ussr:R123_Kirovets_1
+
+Tank: T44 100 P
+vehicle.json: ussr:R127_T44_100_P
+
+Tank: KV4 Kreslavskiy
+vehicle.json: ussr:R128_KV4_Kreslavskiy
+
+Tank: T 45
+vehicle.json: ussr:R125_T_45
+
+Tank: Object 730 5
+vehicle.json: ussr:R126_Object_730_5
+
+Tank: Object 257
+vehicle.json: ussr:R129_Object_257
+
+Tank: KV 122
+vehicle.json: ussr:R133_KV_122
+
+Tank: Object 252U
+vehicle.json: ussr:R134_Object_252U
+
+Tank: Object252 BF
+vehicle.json: ussr:R61_Object252_BF
+
+Tank: T44 100B
+vehicle.json: ussr:R122_T44_100B
+
+Tank: Object 252K
+vehicle.json: ussr:R134_Object_252K
+
+Tank: T 103
+vehicle.json: ussr:R135_T_103
+
+Tank: M4 Loza
+vehicle.json: ussr:R140_M4_Loza
+
+Tank: T 29
+vehicle.json: ussr:R143_T_29
+
+Tank: STG
+vehicle.json: ussr:R146_STG
+
+Tank: STG Tday
+vehicle.json: ussr:R146_STG_Tday
+
+Tank: T62A fallout
+vehicle.json: ussr:R87_T62A_fallout
+
+Tank: IS-7 fallout
+vehicle.json: ussr:R45_IS-7_fallout
+
+Tank: ISU-152 IGR
+vehicle.json: ussr:R47_ISU-152_IGR
+
+Tank: T-44 IGR
+vehicle.json: ussr:R20_T-44_IGR
+
+Tank: IS-3 IGR
+vehicle.json: ussr:R19_IS-3_IGR
+
+Tank: KV85 IGR
+vehicle.json: ussr:R106_KV85_IGR
+
+Tank: KV2 IGR
+vehicle.json: ussr:R77_KV2_IGR
+
+Tank: SU-152 IGR
+vehicle.json: ussr:R18_SU-152_IGR
+
+Tank: KV-5 IGR
+vehicle.json: ussr:R54_KV-5_IGR
+
+Tank: Valentine LL IGR
+vehicle.json: ussr:R31_Valentine_LL_IGR
+
+Tank: IS-7 IGR
+vehicle.json: ussr:R45_IS-7_IGR
+
+Tank: MS-1 bot
+vehicle.json: ussr:R11_MS-1_bot
+
+Tank: T-26 bot
+vehicle.json: ussr:R09_T-26_bot
+
+Tank: LTP bootcamp
+vehicle.json: ussr:R86_LTP_bootcamp
+
+Tank: SU76I bootcamp
+vehicle.json: ussr:R50_SU76I_bootcamp
+
+Tank: BT-2 bootcamp
+vehicle.json: ussr:R08_BT-2_bootcamp
+
+Tank: BT-7 bootcamp
+vehicle.json: ussr:R03_BT-7_bootcamp
+
+Tank: T-28 bootcamp
+vehicle.json: ussr:R06_T-28_bootcamp
+
+Tank: T-34-85 bootcamp
+vehicle.json: ussr:R07_T-34-85_bootcamp
+
+Tank: T-46 bootcamp
+vehicle.json: ussr:R22_T-46_bootcamp
+
+Tank: T-70 bootcamp
+vehicle.json: ussr:R43_T-70_bootcamp
+
+================================================================
+Nation type: germany
+================================================================
+Tank: Pz IV AusfGH
+vehicle.json: germany:G79_Pz_IV_AusfGH
+
+Tank: Hummel
+vehicle.json: germany:G02_Hummel
+
+Tank: PzVI Tiger I
+vehicle.json: germany:G04_PzVI_Tiger_I
+
+Tank: Pz35t
+vehicle.json: germany:G07_Pz35t
+
+Tank: StuG 40 AusfG
+vehicle.json: germany:G05_StuG_40_AusfG
+
+Tank: PzV Panther
+vehicle.json: germany:G03_PzV_Panther
+
+Tank: JagdPzIV
+vehicle.json: germany:G17_JagdPzIV
+
+Tank: Hetzer
+vehicle.json: germany:G09_Hetzer
+
+Tank: PzII
+vehicle.json: germany:G06_PzII
+
+Tank: VK3601H
+vehicle.json: germany:G15_VK3601H
+
+Tank: VK3001H
+vehicle.json: germany:G13_VK3001H
+
+Tank: Bison I
+vehicle.json: germany:G11_Bison_I
+
+Tank: Ltraktor
+vehicle.json: germany:G12_Ltraktor
+
+Tank: Pz38t
+vehicle.json: germany:G08_Pz38t
+
+Tank: PanzerJager I
+vehicle.json: germany:G21_PanzerJager_I
+
+Tank: JagdPanther
+vehicle.json: germany:G18_JagdPanther
+
+Tank: VK3002DB
+vehicle.json: germany:G24_VK3002DB
+
+Tank: PzIII AusfJ
+vehicle.json: germany:G10_PzIII_AusfJ
+
+Tank: Sturmpanzer II
+vehicle.json: germany:G22_Sturmpanzer_II
+
+Tank: Pz III
+vehicle.json: germany:G102_Pz_III
+
+Tank: PzVIB Tiger II
+vehicle.json: germany:G16_PzVIB_Tiger_II
+
+Tank: VK1602
+vehicle.json: germany:G26_VK1602
+
+Tank: Grille
+vehicle.json: germany:G23_Grille
+
+Tank: Wespe
+vehicle.json: germany:G19_Wespe
+
+Tank: PzII Luchs
+vehicle.json: germany:G25_PzII_Luchs
+
+Tank: PzIII IV
+vehicle.json: germany:G28_PzIII_IV
+
+Tank: Marder II
+vehicle.json: germany:G20_Marder_II
+
+Tank: Maus
+vehicle.json: germany:G42_Maus
+
+Tank: VK3001P
+vehicle.json: germany:G27_VK3001P
+
+Tank: VK4502P
+vehicle.json: germany:G58_VK4502P
+
+Tank: Ferdinand
+vehicle.json: germany:G37_Ferdinand
+
+Tank: JagdTiger
+vehicle.json: germany:G44_JagdTiger
+
+Tank: Pz38 NA
+vehicle.json: germany:G52_Pz38_NA
+
+Tank: Panther II
+vehicle.json: germany:G64_Panther_II
+
+Tank: G Tiger
+vehicle.json: germany:G45_G_Tiger
+
+Tank: G Panther
+vehicle.json: germany:G49_G_Panther
+
+Tank: G E
+vehicle.json: germany:G61_G_E
+
+Tank: E-100
+vehicle.json: germany:G56_E-100
+
+Tank: E-75
+vehicle.json: germany:G55_E-75
+
+Tank: VK2801
+vehicle.json: germany:G66_VK2801
+
+Tank: E-50
+vehicle.json: germany:G54_E-50
+
+Tank: VK4502A
+vehicle.json: germany:G67_VK4502A
+
+Tank: PzVI Tiger P
+vehicle.json: germany:G57_PzVI_Tiger_P
+
+Tank: Sturer Emil
+vehicle.json: germany:G43_Sturer_Emil
+
+Tank: Marder III
+vehicle.json: germany:G39_Marder_III
+
+Tank: JagdPantherII
+vehicle.json: germany:G71_JagdPantherII
+
+Tank: Nashorn
+vehicle.json: germany:G40_Nashorn
+
+Tank: JagdPz E100
+vehicle.json: germany:G72_JagdPz_E100
+
+Tank: E50 Ausf M
+vehicle.json: germany:G73_E50_Ausf_M
+
+Tank: PzI ausf C
+vehicle.json: germany:G63_PzI_ausf_C
+
+Tank: PzI
+vehicle.json: germany:G53_PzI
+
+Tank: Pz II AusfG
+vehicle.json: germany:G82_Pz_II_AusfG
+
+Tank: DW II
+vehicle.json: germany:G90_DW_II
+
+Tank: VK2001DB
+vehicle.json: germany:G86_VK2001DB
+
+Tank: Indien Panzer
+vehicle.json: germany:G88_Indien_Panzer
+
+Tank: VK3002DB V1
+vehicle.json: germany:G87_VK3002DB_V1
+
+Tank: Auf Panther
+vehicle.json: germany:G85_Auf_Panther
+
+Tank: Leopard1
+vehicle.json: germany:G89_Leopard1
+
+Tank: Pro Ag A
+vehicle.json: germany:G91_Pro_Ag_A
+
+Tank: GW Mk VIe
+vehicle.json: germany:G93_GW_Mk_VIe
+
+Tank: GW Tiger P
+vehicle.json: germany:G94_GW_Tiger_P
+
+Tank: Pz Sfl IVb
+vehicle.json: germany:G95_Pz_Sfl_IVb
+
+Tank: VK3002M
+vehicle.json: germany:G96_VK3002M
+
+Tank: Pz Sfl IVc
+vehicle.json: germany:G76_Pz_Sfl_IVc
+
+Tank: Waffentrager IV
+vehicle.json: germany:G97_Waffentrager_IV
+
+Tank: RhB Waffentrager
+vehicle.json: germany:G99_RhB_Waffentrager
+
+Tank: Waffentrager E100
+vehicle.json: germany:G98_Waffentrager_E100
+
+Tank: Pz IV AusfA
+vehicle.json: germany:G83_Pz_IV_AusfA
+
+Tank: Pz IV AusfD
+vehicle.json: germany:G80_Pz_IV_AusfD
+
+Tank: StuG III
+vehicle.json: germany:G101_StuG_III
+
+Tank: Pz IV AusfH
+vehicle.json: germany:G81_Pz_IV_AusfH
+
+Tank: RU 251
+vehicle.json: germany:G103_RU_251
+
+Tank: Typ 205
+vehicle.json: germany:G110_Typ_205
+
+Tank: SP I C
+vehicle.json: germany:G113_SP_I_C
+
+Tank: Grille 15 L63
+vehicle.json: germany:G121_Grille_15_L63
+
+Tank: PzKpfw VII
+vehicle.json: germany:G134_PzKpfw_VII
+
+Tank: Typ 205B
+vehicle.json: germany:G115_Typ_205B
+
+Tank: Spz 57 Rh
+vehicle.json: germany:G125_Spz_57_Rh
+
+Tank: HWK 12
+vehicle.json: germany:G126_HWK_12
+
+Tank: Aufklarungspanzer V
+vehicle.json: germany:G85_Aufklarungspanzer_V
+
+Tank: VK168 02 Mauerbrecher
+vehicle.json: germany:G138_VK168_02_Mauerbrecher
+
+Tank: KanonenJagdPanzer 105
+vehicle.json: germany:G112_KanonenJagdPanzer_105
+
+Tank: Waffentrager E100 P
+vehicle.json: germany:G98_Waffentrager_E100_P
+
+Tank: VK168 02
+vehicle.json: germany:G138_VK168_02
+
+Tank: Tiger 131
+vehicle.json: germany:G136_Tiger_131
+
+Tank: JagdTigerH
+vehicle.json: germany:G44_JagdTigerH
+
+Tank: PzVIB Tiger II F
+vehicle.json: germany:G16_PzVIB_Tiger_II_F
+
+Tank: Panzer58 BF
+vehicle.json: germany:G119_Panzer58_BF
+
+Tank: Rheinmetall Skorpian
+vehicle.json: germany:G114_Rheinmetall_Skorpian
+
+Tank: PzV PzIV CN
+vehicle.json: germany:G32_PzV_PzIV_CN
+
+Tank: PzV PzIV ausf Alfa CN
+vehicle.json: germany:G32_PzV_PzIV_ausf_Alfa_CN
+
+Tank: M41 90 GrandFinal
+vehicle.json: germany:G120_M41_90_GrandFinal
+
+Tank: PzV PzIV
+vehicle.json: germany:G32_PzV_PzIV
+
+Tank: PzII J
+vehicle.json: germany:G36_PzII_J
+
+Tank: S35 captured
+vehicle.json: germany:G34_S35_captured
+
+Tank: B-1bis captured
+vehicle.json: germany:G35_B-1bis_captured
+
+Tank: H39 captured
+vehicle.json: germany:G33_H39_captured
+
+Tank: PzVI Tiger 217
+vehicle.json: germany:G137_PzVI_Tiger_217
+
+Tank: PzV PzIV ausf Alfa
+vehicle.json: germany:G32_PzV_PzIV_ausf_Alfa
+
+Tank: Lowe
+vehicle.json: germany:G51_Lowe
+
+Tank: T-25
+vehicle.json: germany:G46_T-25
+
+Tank: T-15
+vehicle.json: germany:G50_T-15
+
+Tank: PzIV Hydro
+vehicle.json: germany:G70_PzIV_Hydro
+
+Tank: JagdTiger SdKfz 185
+vehicle.json: germany:G65_JagdTiger_SdKfz_185
+
+Tank: E-25
+vehicle.json: germany:G48_E-25
+
+Tank: DickerMax
+vehicle.json: germany:G41_DickerMax
+
+Tank: PzIV Schmalturm
+vehicle.json: germany:G77_PzIV_Schmalturm
+
+Tank: Panther M10
+vehicle.json: germany:G78_Panther_M10
+
+Tank: PzIII AusfJ training
+vehicle.json: germany:G10_PzIII_AusfJ_training
+
+Tank: PzVIB Tiger II training
+vehicle.json: germany:G16_PzVIB_Tiger_II_training
+
+Tank: PzV Panther training
+vehicle.json: germany:G03_PzV_Panther_training
+
+Tank: VK7201
+vehicle.json: germany:G92_VK7201
+
+Tank: VK6501H
+vehicle.json: germany:G122_VK6501H
+
+Tank: Gtraktor Krupp
+vehicle.json: germany:G100_Gtraktor_Krupp
+
+Tank: Stug IV
+vehicle.json: germany:G104_Stug_IV
+
+Tank: PzKpfwPanther AusfF
+vehicle.json: germany:G106_PzKpfwPanther_AusfF
+
+Tank: PzKpfwII AusfD
+vehicle.json: germany:G108_PzKpfwII_AusfD
+
+Tank: T-55 NVA DDR
+vehicle.json: germany:G105_T-55_NVA_DDR
+
+Tank: PzVI Tiger IA
+vehicle.json: germany:G04_PzVI_Tiger_IA
+
+Tank: PzKpfwIII AusfK
+vehicle.json: germany:G107_PzKpfwIII_AusfK
+
+Tank: Steyr WT
+vehicle.json: germany:G109_Steyr_WT
+
+Tank: KanonenJagdPanzer
+vehicle.json: germany:G112_KanonenJagdPanzer
+
+Tank: VK4502P7
+vehicle.json: germany:G58_VK4502P7
+
+Tank: Skorpian
+vehicle.json: germany:G114_Skorpian
+
+Tank: Typ 205 4 Jun
+vehicle.json: germany:G115_Typ_205_4_Jun
+
+Tank: VK4503
+vehicle.json: germany:G118_VK4503
+
+Tank: Turan III prot
+vehicle.json: germany:G116_Turan_III_prot
+
+Tank: Toldi III
+vehicle.json: germany:G117_Toldi_III
+
+Tank: Panzer58
+vehicle.json: germany:G119_Panzer58
+
+Tank: M41 90
+vehicle.json: germany:G120_M41_90
+
+Tank: Pz58 Mutz
+vehicle.json: germany:G119_Pz58_Mutz
+
+Tank: Env Artillery
+vehicle.json: germany:Env_Artillery
+
+Tank: JagdTiger SdKfz 185 IGR
+vehicle.json: germany:G65_JagdTiger_SdKfz_185_IGR
+
+Tank: Panther II IGR
+vehicle.json: germany:G64_Panther_II_IGR
+
+Tank: PzVIB Tiger II IGR
+vehicle.json: germany:G16_PzVIB_Tiger_II_IGR
+
+Tank: PzVI Tiger I IGR
+vehicle.json: germany:G04_PzVI_Tiger_I_IGR
+
+Tank: StuG 40 AusfG IGR
+vehicle.json: germany:G05_StuG_40_AusfG_IGR
+
+Tank: E-25 IGR
+vehicle.json: germany:G48_E-25_IGR
+
+Tank: PzV Panther IGR
+vehicle.json: germany:G03_PzV_Panther_IGR
+
+Tank: Ferdinand IGR
+vehicle.json: germany:G37_Ferdinand_IGR
+
+Tank: Maus IGR
+vehicle.json: germany:G42_Maus_IGR
+
+Tank: Ltraktor bot
+vehicle.json: germany:G12_Ltraktor_bot
+
+Tank: PzII bot
+vehicle.json: germany:G06_PzII_bot
+
+Tank: PanzerJager I bootcamp
+vehicle.json: germany:G21_PanzerJager_I_bootcamp
+
+Tank: PzV Panther bootcamp
+vehicle.json: germany:G03_PzV_Panther_bootcamp
+
+Tank: Pz38t bootcamp
+vehicle.json: germany:G08_Pz38t_bootcamp
+
+Tank: Pz IV AusfD bootcamp
+vehicle.json: germany:G80_Pz_IV_AusfD_bootcamp
+
+Tank: Pz III bootcamp
+vehicle.json: germany:G102_Pz_III_bootcamp
+
+Tank: Toldi III bootcamp
+vehicle.json: germany:G117_Toldi_III_bootcamp
+
+================================================================
+Nation type: usa
+================================================================
+Tank: T14
+vehicle.json: usa:A21_T14
+
+Tank: M3 Stuart
+vehicle.json: usa:A03_M3_Stuart
+
+Tank: T1 Cunningham
+vehicle.json: usa:A01_T1_Cunningham
+
+Tank: M6
+vehicle.json: usa:A10_M6
+
+Tank: M4 Sherman
+vehicle.json: usa:A05_M4_Sherman
+
+Tank: M4A3E8 Sherman
+vehicle.json: usa:A06_M4A3E8_Sherman
+
+Tank: T20
+vehicle.json: usa:A07_T20
+
+Tank: M2 lt
+vehicle.json: usa:A02_M2_lt
+
+Tank: T57
+vehicle.json: usa:A15_T57
+
+Tank: T23
+vehicle.json: usa:A08_T23
+
+Tank: T30
+vehicle.json: usa:A14_T30
+
+Tank: T34 hvy
+vehicle.json: usa:A13_T34_hvy
+
+Tank: M3 Grant
+vehicle.json: usa:A04_M3_Grant
+
+Tank: T1 hvy
+vehicle.json: usa:A09_T1_hvy
+
+Tank: M7 Priest
+vehicle.json: usa:A16_M7_Priest
+
+Tank: T29
+vehicle.json: usa:A11_T29
+
+Tank: M41
+vehicle.json: usa:A18_M41
+
+Tank: T32
+vehicle.json: usa:A12_T32
+
+Tank: M37
+vehicle.json: usa:A17_M37
+
+Tank: M2 med
+vehicle.json: usa:A25_M2_med
+
+Tank: M5 Stuart
+vehicle.json: usa:A22_M5_Stuart
+
+Tank: M7 med
+vehicle.json: usa:A23_M7_med
+
+Tank: T2 med
+vehicle.json: usa:A24_T2_med
+
+Tank: Pershing
+vehicle.json: usa:A35_Pershing
+
+Tank: T18
+vehicle.json: usa:A26_T18
+
+Tank: M10 Wolverine
+vehicle.json: usa:A30_M10_Wolverine
+
+Tank: M36 Slagger
+vehicle.json: usa:A31_M36_Slagger
+
+Tank: M40M43
+vehicle.json: usa:A37_M40M43
+
+Tank: T40
+vehicle.json: usa:A29_T40
+
+Tank: M12
+vehicle.json: usa:A32_M12
+
+Tank: T28
+vehicle.json: usa:A39_T28
+
+Tank: T92
+vehicle.json: usa:A38_T92
+
+Tank: T95
+vehicle.json: usa:A40_T95
+
+Tank: M46 Patton
+vehicle.json: usa:A63_M46_Patton
+
+Tank: T25 AT
+vehicle.json: usa:A64_T25_AT
+
+Tank: M103
+vehicle.json: usa:A66_M103
+
+Tank: M24 Chaffee
+vehicle.json: usa:A34_M24_Chaffee
+
+Tank: Sherman Jumbo
+vehicle.json: usa:A36_Sherman_Jumbo
+
+Tank: M8A1
+vehicle.json: usa:A57_M8A1
+
+Tank: T67
+vehicle.json: usa:A58_T67
+
+Tank: T110E5
+vehicle.json: usa:A69_T110E5
+
+Tank: T25 2
+vehicle.json: usa:A72_T25_2
+
+Tank: T28 Prototype
+vehicle.json: usa:A68_T28_Prototype
+
+Tank: M18 Hellcat
+vehicle.json: usa:A41_M18_Hellcat
+
+Tank: T23E3
+vehicle.json: usa:A86_T23E3
+
+Tank: M4 Improved
+vehicle.json: usa:A78_M4_Improved
+
+Tank: T110E4
+vehicle.json: usa:A83_T110E4
+
+Tank: T26 E4 SuperPershing
+vehicle.json: usa:A80_T26_E4_SuperPershing
+
+Tank: T110E3
+vehicle.json: usa:A85_T110E3
+
+Tank: M48A5
+vehicle.json: usa:A120_M48A5
+
+Tank: T69
+vehicle.json: usa:A90_T69
+
+Tank: T57 58
+vehicle.json: usa:A67_T57_58
+
+Tank: T21
+vehicle.json: usa:A71_T21
+
+Tank: T54E1
+vehicle.json: usa:A89_T54E1
+
+Tank: T71E1
+vehicle.json: usa:A103_T71E1
+
+Tank: M60
+vehicle.json: usa:A92_M60
+
+Tank: M53 55
+vehicle.json: usa:A88_M53_55
+
+Tank: M44
+vehicle.json: usa:A87_M44
+
+Tank: T37
+vehicle.json: usa:A94_T37
+
+Tank: M41 Bulldog
+vehicle.json: usa:A97_M41_Bulldog
+
+Tank: T49
+vehicle.json: usa:A100_T49
+
+Tank: T18 HMC
+vehicle.json: usa:A108_T18_HMC
+
+Tank: T56 GMC
+vehicle.json: usa:A109_T56_GMC
+
+Tank: T3
+vehicle.json: usa:A46_T3
+
+Tank: T82
+vehicle.json: usa:A27_T82
+
+Tank: T1 HMC
+vehicle.json: usa:A107_T1_HMC
+
+Tank: XM551
+vehicle.json: usa:A116_XM551
+
+Tank: T71E2R
+vehicle.json: usa:A112_T71E2R
+
+Tank: T2 lt
+vehicle.json: usa:A19_T2_lt
+
+Tank: Ram-II
+vehicle.json: usa:A62_Ram-II
+
+Tank: MTLS-1G14
+vehicle.json: usa:A33_MTLS-1G14
+
+Tank: M4A2E4
+vehicle.json: usa:A44_M4A2E4
+
+Tank: M6A2E1
+vehicle.json: usa:A45_M6A2E1
+
+Tank: M22 Locust
+vehicle.json: usa:A43_M22_Locust
+
+Tank: T1 E6
+vehicle.json: usa:A74_T1_E6
+
+Tank: T95 E2
+vehicle.json: usa:A81_T95_E2
+
+Tank: M4A3E8 Sherman training
+vehicle.json: usa:A06_M4A3E8_Sherman_training
+
+Tank: T7 Combat Car
+vehicle.json: usa:A93_T7_Combat_Car
+
+Tank: T95 E6
+vehicle.json: usa:A95_T95_E6
+
+Tank: M4A3E8A
+vehicle.json: usa:A104_M4A3E8A
+
+Tank: M56
+vehicle.json: usa:A101_M56
+
+Tank: T28 concept
+vehicle.json: usa:A102_T28_concept
+
+Tank: M48A2 120
+vehicle.json: usa:A106_M48A2_120
+
+Tank: M46 Patton KR
+vehicle.json: usa:A63_M46_Patton_KR
+
+Tank: T25 Pilot
+vehicle.json: usa:A111_T25_Pilot
+
+Tank: T71E2
+vehicle.json: usa:A112_T71E2
+
+Tank: T92 LT
+vehicle.json: usa:A99_T92_LT
+
+Tank: Chrysler K
+vehicle.json: usa:A115_Chrysler_K
+
+Tank: T26E5
+vehicle.json: usa:A117_T26E5
+
+Tank: T26E5 Patriot
+vehicle.json: usa:A117_T26E5_Patriot
+
+Tank: T34 hvy BF
+vehicle.json: usa:A13_T34_hvy_BF
+
+Tank: M4 Thunderbolt
+vehicle.json: usa:A118_M4_Thunderbolt
+
+Tank: T71E1 IGR
+vehicle.json: usa:A103_T71E1_IGR
+
+Tank: T69 IGR
+vehicle.json: usa:A90_T69_IGR
+
+Tank: T34 hvy IGR
+vehicle.json: usa:A13_T34_hvy_IGR
+
+Tank: Sherman Jumbo IGR
+vehicle.json: usa:A36_Sherman_Jumbo_IGR
+
+Tank: T67 IGR
+vehicle.json: usa:A58_T67_IGR
+
+Tank: Pershing IGR
+vehicle.json: usa:A35_Pershing_IGR
+
+Tank: M4 Sherman IGR
+vehicle.json: usa:A05_M4_Sherman_IGR
+
+Tank: T29 IGR
+vehicle.json: usa:A11_T29_IGR
+
+Tank: M48A5 IGR
+vehicle.json: usa:A120_M48A5_IGR
+
+Tank: T1 Cunningham bot
+vehicle.json: usa:A01_T1_Cunningham_bot
+
+Tank: T2 med bot
+vehicle.json: usa:A24_T2_med_bot
+
+Tank: M3 Stuart bootcamp
+vehicle.json: usa:A03_M3_Stuart_bootcamp
+
+Tank: M5 Stuart bootcamp
+vehicle.json: usa:A22_M5_Stuart_bootcamp
+
+Tank: M2 med bootcamp
+vehicle.json: usa:A25_M2_med_bootcamp
+
+Tank: Sherman Jumbo bootcamp
+vehicle.json: usa:A36_Sherman_Jumbo_bootcamp
+
+================================================================
+Nation type: france
+================================================================
+Tank: RenaultFT
+vehicle.json: france:F01_RenaultFT
+
+Tank: RenaultBS
+vehicle.json: france:F20_RenaultBS
+
+Tank: D2
+vehicle.json: france:F03_D2
+
+Tank: B1
+vehicle.json: france:F04_B1
+
+Tank: Hotchkiss H35
+vehicle.json: france:F12_Hotchkiss_H35
+
+Tank: D1
+vehicle.json: france:F02_D1
+
+Tank: 105 leFH18B2
+vehicle.json: france:F28_105_leFH18B2
+
+Tank: FCM 36Pak40
+vehicle.json: france:F27_FCM_36Pak40
+
+Tank: ARL 44
+vehicle.json: france:F06_ARL_44
+
+Tank: AMX40
+vehicle.json: france:F14_AMX40
+
+Tank: AMX 50 100
+vehicle.json: france:F08_AMX_50_100
+
+Tank: Lorraine39 L AM
+vehicle.json: france:F21_Lorraine39_L_AM
+
+Tank: Bat Chatillon25t
+vehicle.json: france:F18_Bat_Chatillon25t
+
+Tank: AMX 50 120
+vehicle.json: france:F09_AMX_50_120
+
+Tank: AMX 105AM
+vehicle.json: france:F22_AMX_105AM
+
+Tank: Renault G1R
+vehicle.json: france:F11_Renault_G1R
+
+Tank: AMX 13F3AM
+vehicle.json: france:F23_AMX_13F3AM
+
+Tank: AMX 13 90
+vehicle.json: france:F17_AMX_13_90
+
+Tank: AMX 13 75
+vehicle.json: france:F16_AMX_13_75
+
+Tank: AMX38
+vehicle.json: france:F13_AMX38
+
+Tank: AMX 50B
+vehicle.json: france:F10_AMX_50B
+
+Tank: AMX 12t
+vehicle.json: france:F15_AMX_12t
+
+Tank: BDR G1B
+vehicle.json: france:F05_BDR_G1B
+
+Tank: AMX M4 1945
+vehicle.json: france:F07_AMX_M4_1945
+
+Tank: Lorraine155 50
+vehicle.json: france:F24_Lorraine155_50
+
+Tank: Lorraine155 51
+vehicle.json: france:F25_Lorraine155_51
+
+Tank: RenaultFT AC
+vehicle.json: france:F30_RenaultFT_AC
+
+Tank: RenaultUE57
+vehicle.json: france:F52_RenaultUE57
+
+Tank: Somua Sau 40
+vehicle.json: france:F32_Somua_Sau_40
+
+Tank: S 35CA
+vehicle.json: france:F33_S_35CA
+
+Tank: AMX AC Mle1946
+vehicle.json: france:F35_AMX_AC_Mle1946
+
+Tank: AMX50 Foch
+vehicle.json: france:F37_AMX50_Foch
+
+Tank: ARL V39
+vehicle.json: france:F34_ARL_V39
+
+Tank: Bat Chatillon155 58
+vehicle.json: france:F38_Bat_Chatillon155_58
+
+Tank: AMX AC Mle1948
+vehicle.json: france:F36_AMX_AC_Mle1948
+
+Tank: Somua S35
+vehicle.json: france:F44_Somua_S35
+
+Tank: AMX 50Fosh 155
+vehicle.json: france:F64_AMX_50Fosh_155
+
+Tank: ELC AMX
+vehicle.json: france:F62_ELC_AMX
+
+Tank: Bat Chatillon155 55
+vehicle.json: france:F67_Bat_Chatillon155_55
+
+Tank: AMX Ob Am105
+vehicle.json: france:F66_AMX_Ob_Am105
+
+Tank: SARL42
+vehicle.json: france:F70_SARL42
+
+Tank: FCM36 20t
+vehicle.json: france:F50_FCM36_20t
+
+Tank: AMX 30
+vehicle.json: france:F72_AMX_30
+
+Tank: AMX 30 prototype
+vehicle.json: france:F71_AMX_30_prototype
+
+Tank: RenaultR35
+vehicle.json: france:F49_RenaultR35
+
+Tank: Char de 25t
+vehicle.json: france:F75_Char_de_25t
+
+Tank: Char de 65t
+vehicle.json: france:F81_Char_de_65t
+
+Tank: AMX M4 Mle1949 Bis
+vehicle.json: france:F83_AMX_M4_Mle1949_Bis
+
+Tank: AMX M4 Mle1949 Ter
+vehicle.json: france:F82_AMX_M4_Mle1949_Ter
+
+Tank: AMX 13 105
+vehicle.json: france:F88_AMX_13_105
+
+Tank: Batignolles-Chatillon 12t
+vehicle.json: france:F87_Batignolles-Chatillon_12t
+
+Tank: AMX 50Fosh B
+vehicle.json: france:F64_AMX_50Fosh_B
+
+Tank: ELC EVEN 90
+vehicle.json: france:F97_ELC_EVEN_90
+
+Tank: Canon dassaut de 105
+vehicle.json: france:F89_Canon_dassaut_de_105
+
+Tank: AMX M4 1949 Liberte
+vehicle.json: france:F74_AMX_M4_1949_Liberte
+
+Tank: Somua SM
+vehicle.json: france:F84_Somua_SM
+
+Tank: Lorraine40t
+vehicle.json: france:F19_Lorraine40t
+
+Tank: AMX M4 1949
+vehicle.json: france:F74_AMX_M4_1949
+
+Tank: M4A1 Revalorise
+vehicle.json: france:F73_M4A1_Revalorise
+
+Tank: AMX13 57 100 GrandFinal
+vehicle.json: france:F69_AMX13_57_100_GrandFinal
+
+Tank: AMX Chasseur de char 46
+vehicle.json: france:F68_AMX_Chasseur_de_char_46
+
+Tank: AMX13 57 100
+vehicle.json: france:F69_AMX13_57_100
+
+Tank: FCM 50t
+vehicle.json: france:F65_FCM_50t
+
+Tank: AMX 50B fallout
+vehicle.json: france:F10_AMX_50B_fallout
+
+Tank: AMX AC Mle1948 IGR
+vehicle.json: france:F36_AMX_AC_Mle1948_IGR
+
+Tank: AMX 13 90 IGR
+vehicle.json: france:F17_AMX_13_90_IGR
+
+Tank: AMX 50 100 IGR
+vehicle.json: france:F08_AMX_50_100_IGR
+
+Tank: 105 leFH18B2 IGR
+vehicle.json: france:F28_105_leFH18B2_IGR
+
+Tank: S 35CA IGR
+vehicle.json: france:F33_S_35CA_IGR
+
+Tank: ELC AMX IGR
+vehicle.json: france:F62_ELC_AMX_IGR
+
+Tank: Bat Chatillon25t IGR
+vehicle.json: france:F18_Bat_Chatillon25t_IGR
+
+Tank: RenaultFT bot
+vehicle.json: france:F01_RenaultFT_bot
+
+Tank: B1 bootcamp
+vehicle.json: france:F04_B1_bootcamp
+
+================================================================
+Nation type: uk
+================================================================
+Tank: Medium Mark I
+vehicle.json: uk:GB01_Medium_Mark_I
+
+Tank: Vickers Medium Mk II
+vehicle.json: uk:GB05_Vickers_Medium_Mk_II
+
+Tank: M2
+vehicle.json: uk:GB14_M2
+
+Tank: Matilda
+vehicle.json: uk:GB07_Matilda
+
+Tank: Cromwell
+vehicle.json: uk:GB21_Cromwell
+
+Tank: Stuart I
+vehicle.json: uk:GB15_Stuart_I
+
+Tank: Grant I
+vehicle.json: uk:GB17_Grant_I
+
+Tank: Crusader
+vehicle.json: uk:GB20_Crusader
+
+Tank: Vickers Medium Mk III
+vehicle.json: uk:GB06_Vickers_Medium_Mk_III
+
+Tank: Churchill I
+vehicle.json: uk:GB08_Churchill_I
+
+Tank: Black Prince
+vehicle.json: uk:GB10_Black_Prince
+
+Tank: Sexton
+vehicle.json: uk:GB27_Sexton
+
+Tank: Sherman Firefly
+vehicle.json: uk:GB19_Sherman_Firefly
+
+Tank: Caernarvon
+vehicle.json: uk:GB11_Caernarvon
+
+Tank: Conqueror
+vehicle.json: uk:GB12_Conqueror
+
+Tank: Churchill VII
+vehicle.json: uk:GB09_Churchill_VII
+
+Tank: Valentine
+vehicle.json: uk:GB04_Valentine
+
+Tank: Cruiser Mk I
+vehicle.json: uk:GB03_Cruiser_Mk_I
+
+Tank: Comet
+vehicle.json: uk:GB22_Comet
+
+Tank: Centurion Mk3
+vehicle.json: uk:GB24_Centurion_Mk3
+
+Tank: Centurion
+vehicle.json: uk:GB23_Centurion
+
+Tank: FV215b
+vehicle.json: uk:GB13_FV215b
+
+Tank: Covenanter
+vehicle.json: uk:GB60_Covenanter
+
+Tank: Cruiser Mk II
+vehicle.json: uk:GB69_Cruiser_Mk_II
+
+Tank: FV4202 105
+vehicle.json: uk:GB70_FV4202_105
+
+Tank: Cruiser Mk IV
+vehicle.json: uk:GB59_Cruiser_Mk_IV
+
+Tank: Cruiser Mk III
+vehicle.json: uk:GB58_Cruiser_Mk_III
+
+Tank: Valentine AT
+vehicle.json: uk:GB42_Valentine_AT
+
+Tank: Universal CarrierQF2
+vehicle.json: uk:GB39_Universal_CarrierQF2
+
+Tank: AT15
+vehicle.json: uk:GB72_AT15
+
+Tank: AT2
+vehicle.json: uk:GB73_AT2
+
+Tank: Alecto
+vehicle.json: uk:GB57_Alecto
+
+Tank: FV215b 183
+vehicle.json: uk:GB48_FV215b_183
+
+Tank: AT8
+vehicle.json: uk:GB74_AT8
+
+Tank: Gun Carrier Churchill
+vehicle.json: uk:GB40_Gun_Carrier_Churchill
+
+Tank: AT7
+vehicle.json: uk:GB75_AT7
+
+Tank: Loyd Gun Carriage
+vehicle.json: uk:GB25_Loyd_Gun_Carriage
+
+Tank: Birch Gun
+vehicle.json: uk:GB26_Birch_Gun
+
+Tank: Bishop
+vehicle.json: uk:GB28_Bishop
+
+Tank: Crusader 5inch
+vehicle.json: uk:GB29_Crusader_5inch
+
+Tank: FV3805
+vehicle.json: uk:GB30_FV3805
+
+Tank: FV304
+vehicle.json: uk:GB77_FV304
+
+Tank: FV206
+vehicle.json: uk:GB79_FV206
+
+Tank: Conqueror Gun
+vehicle.json: uk:GB31_Conqueror_Gun
+
+Tank: Sherman III
+vehicle.json: uk:GB50_Sherman_III
+
+Tank: FV4004
+vehicle.json: uk:GB81_FV4004
+
+Tank: Archer
+vehicle.json: uk:GB44_Archer
+
+Tank: FV4005
+vehicle.json: uk:GB83_FV4005
+
+Tank: Challenger
+vehicle.json: uk:GB41_Challenger
+
+Tank: Achilles IIC
+vehicle.json: uk:GB45_Achilles_IIC
+
+Tank: Charioteer
+vehicle.json: uk:GB80_Charioteer
+
+Tank: Centurion Action X
+vehicle.json: uk:GB86_Centurion_Action_X
+
+Tank: Tortoise
+vehicle.json: uk:GB32_Tortoise
+
+Tank: Super Conqueror
+vehicle.json: uk:GB91_Super_Conqueror
+
+Tank: FV217
+vehicle.json: uk:GB92_FV217
+
+Tank: Chieftain Mk6
+vehicle.json: uk:GB84_Chieftain_Mk6
+
+Tank: Chieftain T95 turret
+vehicle.json: uk:GB87_Chieftain_T95_turret
+
+Tank: Sentinel AC I
+vehicle.json: uk:GB33_Sentinel_AC_I
+
+Tank: Matilda Black Prince
+vehicle.json: uk:GB68_Matilda_Black_Prince
+
+Tank: TOG II
+vehicle.json: uk:GB63_TOG_II
+
+Tank: AT 15A
+vehicle.json: uk:GB71_AT_15A
+
+Tank: Excelsior
+vehicle.json: uk:GB51_Excelsior
+
+Tank: Sexton I
+vehicle.json: uk:GB78_Sexton_I
+
+Tank: Mk VIC
+vehicle.json: uk:GB76_Mk_VIC
+
+Tank: A45
+vehicle.json: uk:GB52_A45
+
+Tank: N FV4202 105
+vehicle.json: uk:GB70_N_FV4202_105
+
+Tank: Cromwell Berlin
+vehicle.json: uk:GB85_Cromwell_Berlin
+
+Tank: Sentinel AC IV
+vehicle.json: uk:GB35_Sentinel_AC_IV
+
+Tank: T95 Chieftain turret
+vehicle.json: uk:GB88_T95_Chieftain_turret
+
+Tank: Caernarvon AX
+vehicle.json: uk:GB93_Caernarvon_AX
+
+Tank: Centurion IGR
+vehicle.json: uk:GB23_Centurion_IGR
+
+Tank: Caernarvon IGR
+vehicle.json: uk:GB11_Caernarvon_IGR
+
+Tank: Cromwell IGR
+vehicle.json: uk:GB21_Cromwell_IGR
+
+Tank: FV304 IGR
+vehicle.json: uk:GB77_FV304_IGR
+
+Tank: AT15 IGR
+vehicle.json: uk:GB72_AT15_IGR
+
+Tank: Churchill I IGR
+vehicle.json: uk:GB08_Churchill_I_IGR
+
+Tank: FV215b IGR
+vehicle.json: uk:GB13_FV215b_IGR
+
+Tank: Medium Mark I bot
+vehicle.json: uk:GB01_Medium_Mark_I_bot
+
+Tank: Vickers Medium Mk II bot
+vehicle.json: uk:GB05_Vickers_Medium_Mk_II_bot
+
+================================================================
+Nation type: china
+================================================================
+Tank: Type59
+vehicle.json: china:Ch01_Type59
+
+Tank: Type62
+vehicle.json: china:Ch02_Type62
+
+Tank: Type59 Gold
+vehicle.json: china:Ch01_Type59_Gold
+
+Tank: WZ-111
+vehicle.json: china:Ch03_WZ-111
+
+Tank: T34 1
+vehicle.json: china:Ch04_T34_1
+
+Tank: Renault NC31
+vehicle.json: china:Ch06_Renault_NC31
+
+Tank: T34 2
+vehicle.json: china:Ch05_T34_2
+
+Tank: WZ-120
+vehicle.json: china:Ch18_WZ-120
+
+Tank: 111 1 2 3
+vehicle.json: china:Ch12_111_1_2_3
+
+Tank: Vickers MkE Type BT26
+vehicle.json: china:Ch07_Vickers_MkE_Type_BT26
+
+Tank: 110
+vehicle.json: china:Ch11_110
+
+Tank: M5
+vehicle.json: china:Ch09_M5
+
+Tank: WZ 131
+vehicle.json: china:Ch16_WZ_131
+
+Tank: IS2
+vehicle.json: china:Ch10_IS2
+
+Tank: WZ131 1 WZ132
+vehicle.json: china:Ch17_WZ131_1_WZ132
+
+Tank: 121
+vehicle.json: china:Ch19_121
+
+Tank: Type97 Chi Ha
+vehicle.json: china:Ch08_Type97_Chi_Ha
+
+Tank: T34
+vehicle.json: china:Ch21_T34
+
+Tank: 59 16
+vehicle.json: china:Ch15_59_16
+
+Tank: Type58
+vehicle.json: china:Ch20_Type58
+
+Tank: 113
+vehicle.json: china:Ch22_113
+
+Tank: WZ 132A
+vehicle.json: china:Ch28_WZ_132A
+
+Tank: Type 62C prot
+vehicle.json: china:Ch29_Type_62C_prot
+
+Tank: WZ 111 5A
+vehicle.json: china:Ch41_WZ_111_5A
+
+Tank: T-26G FT
+vehicle.json: china:Ch30_T-26G_FT
+
+Tank: M3G FT
+vehicle.json: china:Ch31_M3G_FT
+
+Tank: SU-76G FT
+vehicle.json: china:Ch32_SU-76G_FT
+
+Tank: 60G FT
+vehicle.json: china:Ch33_60G_FT
+
+Tank: WZ131G FT
+vehicle.json: china:Ch34_WZ131G_FT
+
+Tank: T-34-2G FT
+vehicle.json: china:Ch35_T-34-2G_FT
+
+Tank: WZ111 1G FT
+vehicle.json: china:Ch36_WZ111_1G_FT
+
+Tank: WZ111G FT
+vehicle.json: china:Ch37_WZ111G_FT
+
+Tank: WZ113G FT
+vehicle.json: china:Ch38_WZ113G_FT
+
+Tank: 113 Beijing Opera
+vehicle.json: china:Ch22_113_Beijing_Opera
+
+Tank: 113P
+vehicle.json: china:Ch22_113P
+
+Tank: WZ120G FT
+vehicle.json: china:Ch40_WZ120G_FT
+
+Tank: WZ120 1G FT
+vehicle.json: china:Ch39_WZ120_1G_FT
+
+Tank: 121 mod 1971B
+vehicle.json: china:Ch25_121_mod_1971B
+
+Tank: 59 Patton
+vehicle.json: china:Ch26_59_Patton
+
+Tank: T34 3
+vehicle.json: china:Ch14_T34_3
+
+Tank: T34 1 training
+vehicle.json: china:Ch04_T34_1_training
+
+Tank: 112
+vehicle.json: china:Ch23_112
+
+Tank: Type64
+vehicle.json: china:Ch24_Type64
+
+Tank: WZ 111 A
+vehicle.json: china:Ch03_WZ_111_A
+
+Tank: WZ131 1 WZ132 IGR
+vehicle.json: china:Ch17_WZ131_1_WZ132_IGR
+
+Tank: 110 IGR
+vehicle.json: china:Ch11_110_IGR
+
+Tank: 121 IGR
+vehicle.json: china:Ch19_121_IGR
+
+Tank: Renault NC31 bot
+vehicle.json: china:Ch06_Renault_NC31_bot
+
+Tank: Type97 Chi Ha bootcamp
+vehicle.json: china:Ch08_Type97_Chi_Ha_bootcamp
+
+================================================================
+Nation type: japan
+================================================================
+Tank: Chi Ni
+vehicle.json: japan:J15_Chi_Ni
+
+Tank: NC27
+vehicle.json: japan:J01_NC27
+
+Tank: Ha Go
+vehicle.json: japan:J03_Ha_Go
+
+Tank: Chi Ri
+vehicle.json: japan:J11_Chi_Ri
+
+Tank: Chi Nu
+vehicle.json: japan:J08_Chi_Nu
+
+Tank: Chi He
+vehicle.json: japan:J09_Chi_He
+
+Tank: Chi To
+vehicle.json: japan:J10_Chi_To
+
+Tank: Chi Ha
+vehicle.json: japan:J07_Chi_Ha
+
+Tank: Ke Ni
+vehicle.json: japan:J04_Ke_Ni
+
+Tank: STA 1
+vehicle.json: japan:J13_STA_1
+
+Tank: Ke Ho
+vehicle.json: japan:J06_Ke_Ho
+
+Tank: Te Ke
+vehicle.json: japan:J02_Te_Ke
+
+Tank: Type 61
+vehicle.json: japan:J14_Type_61
+
+Tank: ST B1
+vehicle.json: japan:J16_ST_B1
+
+Tank: Type 2605
+vehicle.json: japan:J20_Type_2605
+
+Tank: Type 4
+vehicle.json: japan:J25_Type_4
+
+Tank: Type 95
+vehicle.json: japan:J22_Type_95
+
+Tank: Type 91
+vehicle.json: japan:J21_Type_91
+
+Tank: O I 120
+vehicle.json: japan:J27_O_I_120
+
+Tank: O I 100
+vehicle.json: japan:J28_O_I_100
+
+Tank: Mi To 130 tons
+vehicle.json: japan:J24_Mi_To_130_tons
+
+Tank: Mi To
+vehicle.json: japan:J23_Mi_To
+
+Tank: Type 89
+vehicle.json: japan:J26_Type_89
+
+Tank: Chi Nu Kai
+vehicle.json: japan:J12_Chi_Nu_Kai
+
+Tank: Ke Ni B
+vehicle.json: japan:J05_Ke_Ni_B
+
+Tank: STA 2 3
+vehicle.json: japan:J18_STA_2_3
+
+Tank: Tiger I Jpn
+vehicle.json: japan:J19_Tiger_I_Jpn
+
+Tank: Nameless
+vehicle.json: japan:J29_Nameless
+
+Tank: Edelweiss
+vehicle.json: japan:J30_Edelweiss
+
+Tank: STA 1 IGR
+vehicle.json: japan:J13_STA_1_IGR
+
+Tank: Chi Ri IGR
+vehicle.json: japan:J11_Chi_Ri_IGR
+
+Tank: ST B1 IGR
+vehicle.json: japan:J16_ST_B1_IGR
+
+Tank: NC27 bot
+vehicle.json: japan:J01_NC27_bot
+
+Tank: Ke Ni bootcamp
+vehicle.json: japan:J04_Ke_Ni_bootcamp
+
+Tank: Type 95 bootcamp
+vehicle.json: japan:J22_Type_95_bootcamp
+
+================================================================
+Nation type: czech
+================================================================
+Tank: Kolohousenka
+vehicle.json: czech:Cz06_Kolohousenka
+
+Tank: LT vz35
+vehicle.json: czech:Cz03_LT_vz35
+
+Tank: LT vz38
+vehicle.json: czech:Cz10_LT_vz38
+
+Tank: V 8 H
+vehicle.json: czech:Cz11_V_8_H
+
+Tank: T 24
+vehicle.json: czech:Cz09_T_24
+
+Tank: T 25
+vehicle.json: czech:Cz08_T_25
+
+Tank: T34 100
+vehicle.json: czech:Cz05_T34_100
+
+Tank: TVP 46
+vehicle.json: czech:Cz07_TVP_46
+
+Tank: TVP T50
+vehicle.json: czech:Cz02_TVP_T50
+
+Tank: T50 51
+vehicle.json: czech:Cz04_T50_51
+
+Tank: Skoda T40
+vehicle.json: czech:Cz01_Skoda_T40
+
+================================================================
+Nation type: sweden
+================================================================
+Tank: Strv M21 29
+vehicle.json: sweden:S05_Strv_M21_29
+
+Tank: Strv M38
+vehicle.json: sweden:S03_Strv_M38
+
+Tank: Strv M40
+vehicle.json: sweden:S12_Strv_M40
+
+Tank: Lago I
+vehicle.json: sweden:S04_Lago_I
+
+Tank: Strv M42
+vehicle.json: sweden:S02_Strv_M42
+
+Tank: Strv 74
+vehicle.json: sweden:S07_Strv_74
+
+Tank: Leo
+vehicle.json: sweden:S13_Leo
+
+Tank: EMIL 1951 E1
+vehicle.json: sweden:S18_EMIL_1951_E1
+
+Tank: EMIL 1952 E2
+vehicle.json: sweden:S17_EMIL_1952_E2
+
+Tank: Kranvagn
+vehicle.json: sweden:S16_Kranvagn
+
+Tank: L 120 TD
+vehicle.json: sweden:S09_L_120_TD
+
+Tank: Ikv 72
+vehicle.json: sweden:S20_Ikv_72
+
+Tank: Sav M43
+vehicle.json: sweden:S19_Sav_M43
+
+Tank: Ikv 103
+vehicle.json: sweden:S14_Ikv_103
+
+Tank: Ikv 65 Alt 2
+vehicle.json: sweden:S08_Ikv_65_Alt_2
+
+Tank: Ikv 90 Typ B Bofors
+vehicle.json: sweden:S06_Ikv_90_Typ_B_Bofors
+
+Tank: Strv 74 A2
+vehicle.json: sweden:S01_Strv_74_A2
+
+Tank: L 60
+vehicle.json: sweden:S15_L_60
+
+Tank: UDES 03
+vehicle.json: sweden:S21_UDES_03
+
+Tank: Strv 103 0 Series
+vehicle.json: sweden:S10_Strv_103_0_Series
+
+Tank: Strv 103B
+vehicle.json: sweden:S11_Strv_103B
+
+Tank: Strv S1
+vehicle.json: sweden:S22_Strv_S1
+
+Tank: Strv 81
+vehicle.json: sweden:S23_Strv_81
+
+Tank: Strv 81 sabaton
+vehicle.json: sweden:S23_Strv_81_sabaton
+
+================================================================
+Nation type: poland
+================================================================
+Tank: PzV Poland
+vehicle.json: poland:Pl03_PzV_Poland
+
+================================================================
+Total vehicles: 679
+================================================================

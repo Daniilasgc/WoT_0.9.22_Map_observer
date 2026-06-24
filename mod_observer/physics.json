@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "enginePowerMul": 200.0,
+  "forwardSpeedMul": 3.0,
+  "backwardSpeedMul": 2.0,
+  "rotationSpeedMul": 3.0,
+  "brakeForceMul": 44.0,
+  "terrainResistanceMul": 0.8
+}
