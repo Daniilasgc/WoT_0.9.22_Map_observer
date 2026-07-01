@@ -136,8 +136,6 @@ def _observerLoadVehicleConfig():
     configPaths = [
         # Main path for your current WoT 0.9.22.0.1 installation.
         # If the game is started from the WoT root folder, this relative path should work.
-        os.path.join('mods', '0.9.22.0.1', 'mod_observer', 'vehicle.json'),
-        os.path.join('.', 'mods', '0.9.22.0.1', 'mod_observer', 'vehicle.json'),
         os.path.join('mods', 'configs', 'mod_observer', 'vehicle.json'),
         os.path.join('.', 'mods', 'configs', 'mod_observer', 'vehicle.json'),
     ]
@@ -262,8 +260,8 @@ def _observerLoadPhysicsConfig():
     """Loads movement physics config from JSON."""
 
     configPaths = [
-        os.path.join('mods', '0.9.22.0.1', 'mod_observer', 'physics.json'),
-        os.path.join('.', 'mods', '0.9.22.0.1', 'mod_observer', 'physics.json'),
+        os.path.join('mods', 'configs', 'mod_observer', 'physics.json'),
+        os.path.join('.', 'mods', 'configs', 'mod_observer', 'physics.json'),
     ]
 
     result = dict(DEFAULT_OBSERVER_PHYSICS)
