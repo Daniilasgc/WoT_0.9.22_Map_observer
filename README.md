@@ -18,9 +18,9 @@ It lets you enter any map alone, choose a tank, and drive around / inspect the m
 
 ## Installation
 1. Copy `izeberg.observer_1.0.4.2.wotmod` and `poliroid.modslistapi_1.1.0a.wotmod` to:
-   `WoT\mods\0.9.22\`
+   `WoT\mods\0.9.22.0\`
 2. Copy `vehicle.json` and `physics.json` to:
-   `WoT\mods\0.9.22\mod_observer\`
+   `WoT\mods\configs\mod_observer\`
 
 ## Disclaimer
 This is an unofficial modification. It is not affiliated with Wargaming. *World of Tanks* is a trademark of Wargaming.
